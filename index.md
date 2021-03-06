@@ -44,7 +44,7 @@
  
  -  Gmail: hoseinrajabi9865@gmail.com
 
-   - کوئرا: <a href="https://quera.ir/profile/nazaninmansori">My Profile</a>
+   - کوئرا: <a href="https://quera.ir/profile/hoseynrajabi">My Profile</a>
 
-   - رزومه ی انگلیسی: <a href=""> Resume </a>
+   - رزومه ی انگلیسی: <a href="https://hoseynrajabi.github.io/resume.EN/"> Resume </a>
 </ul>
